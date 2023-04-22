@@ -29,7 +29,7 @@ Once the editor is open, you can use it as you normally would. For example, you 
 
 ## Customization
 
-You can customize the options displayed by `nvims` by modifying the `items` variable in the `nvims` function. For example, you could add an option to open `emacs` by setting `items` to:
+You can customize the options displayed by `nvims` by modifying the `items` variable in the `nvims` function. For example, you could add an option to open `LunarVim` config by setting `items` to:
 
 ```fish
 set -x items "nvim\nLazyVim\nLunarVim" # your config folder names
