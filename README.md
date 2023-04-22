@@ -1,6 +1,9 @@
 # nvims
 
-`nvims` is a fish shell function that allows you to quickly open the [neovim](https://neovim.io/), [LazyVim](https://github.com/johngrib/lazyvim), or [vim](https://www.vim.org/) editors using [fzf](https://github.com/junegunn/fzf) for quick selection. 
+`nvims` is a fish shell function that allows you to quickly change the neovim configs faster
+
+## Important
+You Need Neovim Nightly Version
 
 ## Installation
 
